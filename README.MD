@@ -18,4 +18,3 @@ We used mongodb for the database
 
 [Watch The Video](https://youtu.be/5HeLBuN6AEQ)
 
-PS: Also download Redis and Mongodb compass, and change the filepaths
